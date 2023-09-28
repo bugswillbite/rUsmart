@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+button {font-family: "courier", monospace;}
+body {
+  font-family: "courier", monospace;
+    background: "okok.png";
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 450px;
+  padding: 20px;
+  margin-top: 80px;
+  background-color: #000000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1 {
+  color:  #15ff07;
+}
+.question{
+  color:  #15ff07;
+}
+.question {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.options {
+  margin-bottom: 20px;
+}
+
+.options{
+  color:  #15ff07;
+}
+
+.option {
+  display: block;
+  margin-bottom: 10px;
+}
+.option {
+  color:  #15ff07;
+}
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #15ff07;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  margin-right: 10px;
+}
+
+.button:hover {
+  background-color: #a40900;
+}
+
+.result {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.result{
+  color:  #15ff07;
+}
+
+.hide{
+  display: none;
+}

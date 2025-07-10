@@ -1,3 +1,3 @@
-<i>r U smart?<i>, 2023
-<br>-+> HTML, CSS, JAVASCRIPT <+-
-<br>-+> A <i>totally unbiased<i> quiz based on solely <i>facts<i>. Maybe a little bit of personal opinion. <+-
+# _r U smart?_, 2023 
+-+> HTML, CSS, JAVASCRIPT <+-
+## <br>-+> A _totally unbiased_ quiz based on solely _facts_. Maybe a little bit of personal opinion. <+-
